@@ -7,3 +7,5 @@ Chú thích:
 Bộ dữ liệu loan.csv là bộ dữ liệu số còn Data_Dictionary.xlsx là hỗ trợ giải thích nghĩa của từng feature tương ứng.
 
 Bộ dữ liệu saukhichinhsua.csv là bộ dữ liệu sau khi làm sạch để huấn luyện mô hình 
+
+Link app demo basic on streamlit: https://loan-app-app-vpauubowt4r4f33d2faz4a.streamlit.app/
